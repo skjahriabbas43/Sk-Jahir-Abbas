@@ -9,7 +9,6 @@ Seeking a challenging role as a Cybersecurity Professional where I can leverage 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,8 +20,43 @@ Seeking a challenging role as a Cybersecurity Professional where I can leverage 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+Language
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
+</div>
+IT Security
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-7F5FFF?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6347?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-2BACAC?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-6762A6?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SIEM-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE%20ATT&CK-000000?&style=for-the-badge&logoColor=white" />
+</div>
+IT Networks
+<div>
+    <img src="https://img.shields.io/badge/-Router-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Switch-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firewall-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IDS-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IPS-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Computer%20Hardware-4B8B3B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20System-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+Understanding in
+<div>
+    <img src="https://img.shields.io/badge/-VAPT-FF5733?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WAPT-FF5733?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Malware%20Analysis-8B0000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat%20Hunting-FFA500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT-0078D4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Dark%20Web%20Research-000000?&style=for-the-badge&logoColor=white" />
+</div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
