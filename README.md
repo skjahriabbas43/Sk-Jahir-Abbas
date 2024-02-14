@@ -28,7 +28,7 @@ Language
     <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
 </div>
-IT Security
+### IT Security
 <div>
     <img src="https://img.shields.io/badge/-Nmap-7F5FFF?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6347?&style=for-the-badge&logoColor=white" />
@@ -37,7 +37,7 @@ IT Security
     <img src="https://img.shields.io/badge/-SIEM-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE%20ATT&CK-000000?&style=for-the-badge&logoColor=white" />
 </div>
-IT Networks
+### IT Networks
 <div>
     <img src="https://img.shields.io/badge/-Router-4B8B3B?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Switch-4B8B3B?&style=for-the-badge&logoColor=white" />
@@ -48,7 +48,7 @@ IT Networks
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20System-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
-Understanding in
+### Understanding in
 <div>
     <img src="https://img.shields.io/badge/-VAPT-FF5733?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-WAPT-FF5733?&style=for-the-badge&logoColor=white" />
@@ -78,7 +78,6 @@ Understanding in
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Malware%20Analysis%20and%20Introduction%20to%20Assembly%20Language-005BBB?&style=for-the-badge&logo=IBM&logoColor=white" />
