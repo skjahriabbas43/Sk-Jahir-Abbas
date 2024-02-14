@@ -1,14 +1,11 @@
 # Hello, I'm Sk Jahir Abbas
 <a href="https://www.linkedin.com/in/sk-jahir-abbas-3758911b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate about securing digital landscapes. MCA graduate with hands-on experience in VAPT, Network Security, OSINT, Darkweb, Detectino Signature writing and Malware Analysis. Currently interning as a Security Researcher at Sectrio( a division of Subex). Skilled in Python, CCNA, Google Cybersecurity certified and committed to continuous learning. Let's connect and explore the world of cybersecurity together.
+Passionate about securing digital landscapes. MCA graduate with hands-on experience in VAPT, Network Security, OSINT, Darkweb, Detection Signature writing and Malware Analysis. Currently interning as a Security Researcher at Sectrio( a division of Subex). Skilled in Python, CCNA, and Google Cybersecurity certified and committed to continuous learning. Let's connect and explore the world of cybersecurity together.
 
 
 ## Objective
-Seeking an entry-level position in a company that values continuous learning and innovation, where I can enhance
-my skills, expand my knowledge, and unlock my full potential. With a strong passion for cybersecurity and a
-background in Master's in Computer Applications, I am eager to contribute to the organization's success by
-applying my knowledge and skills gained through certifications.
+Seeking a challenging role as a Cybersecurity Professional where I can leverage my skills in IT Security, Networking, and Programming, along with my hands-on experience in Vulnerability Assessment, Penetration Testing, Threat Intelligence, and Network Security. I aim to contribute effectively to securing critical infrastructure and combating cyber threats while continuing to learn and grow in the field of cybersecurity.
 
 
 ## Skills
